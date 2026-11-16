@@ -1,6 +1,6 @@
 # Python: парсеры, Telegram-боты, автоматизация
 
-**Сайт:** https://lagunovvova111-hash.github.io/python-portfolio/
+**Сайт:** https://veidyq.github.io/python-portfolio/
 
 Практические проекты на чистой стандартной библиотеке Python — без внешних
 зависимостей, запускаются одной командой.
