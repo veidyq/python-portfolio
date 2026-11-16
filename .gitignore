@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# результаты прогонов и секреты
+report.csv
+report.xlsx
+leads.csv
+prices.db
+.env
+
+# локальные профили браузера
+.freelance-profile/
+.playwright-mcp/
+
+# ОС
+Thumbs.db
+desktop.ini
+.DS_Store

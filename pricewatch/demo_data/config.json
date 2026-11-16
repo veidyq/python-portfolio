@@ -1,0 +1,39 @@
+{
+  "pause_seconds": 0,
+  "products": [
+    {
+      "name": "Кофе в зёрнах 1 кг",
+      "my_price": 1890,
+      "title_pattern": "кофе в зёрнах"
+    },
+    {
+      "name": "Кофеварка рожковая",
+      "my_price": 12900,
+      "title_pattern": "кофеварка рожковая"
+    },
+    {
+      "name": "Кофемолка жерновая",
+      "my_price": 3200,
+      "title_pattern": "кофемолка"
+    }
+  ],
+  "shops": [
+    {
+      "name": "Магазин «Север»",
+      "target": "shop_north_p{page}.html",
+      "pages": 2
+    },
+    {
+      "name": "Магазин «Юг»",
+      "target": "shop_south.html"
+    },
+    {
+      "name": "Магазин «Восток»",
+      "target": "shop_east.html"
+    },
+    {
+      "name": "Магазин «Без цен»",
+      "target": "shop_broken.html"
+    }
+  ]
+}
